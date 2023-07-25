@@ -1,0 +1,68 @@
+[
+  {
+    "index": "0",
+    "color": "#d3e0f0",
+    "value": "0 - Aucun effort",
+    "label": "Aucun effort"
+  },
+  {
+    "index": "1",
+    "color": "#a4bac8",
+    "value": "1 - Très très facile",
+    "label": "Très très facile"
+  },
+  {
+    "index": "2",
+    "color": "#a4ce86",
+    "value": "2 - Très facile",
+    "label": "Très facile"
+  },
+  {
+    "index": "3",
+    "color": "#a4ce86",
+    "value": "3 - Facile",
+    "label": "Facile"
+  },
+  {
+    "index": "4",
+    "color": "#ebec50",
+    "value": "4 - Effort modéré",
+    "label": "Effort modéré"
+  },
+  {
+    "index": "5",
+    "color": "#ebec50",
+    "value": "5 - Moyen",
+    "label": "Moyen"
+  },
+  {
+    "index": "6",
+    "color": "#ebc351",
+    "value": "6 - Un peu dur",
+    "label": "Un peu dur"
+  },
+  {
+    "index": "7",
+    "color": "#ebc351",
+    "value": "7 - Dur",
+    "label": "Dur"
+  },
+  {
+    "index": "8",
+    "color": "#ebc351",
+    "value": "8 - Très dur",
+    "label": "Très dur"
+  },
+  {
+    "index": "9",
+    "color": "#e94955",
+    "value": "9 - Trés trés dur",
+    "label": "Trés trés dur"
+  },
+  {
+    "index": "10",
+    "color": "#c14851",
+    "value": "10 - Maximal",
+    "label": "Maximal"
+  }
+]

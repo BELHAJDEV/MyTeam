@@ -1,0 +1,272 @@
+[
+  {
+    "club_slug": "SSC Bari",
+    "logo_club": "https://interface.myteambyfrmf.ma/uploads/Europe/italy/Bari508.png",
+    "club_id": 11982,
+    "nom": "Cheddira",
+    "prenom": "Walid",
+    "img": "https://interface.myteambyfrmf.ma/uploads/image-1680519764669.jpeg",
+    "post": "A",
+    "equipe_id": 714
+  },
+  {
+    "club_slug": "Al-Ittihad Club",
+    "logo_club": "https://interface.myteambyfrmf.ma/uploads/Asia/bahrain/Al Ittihad5581.png",
+    "club_id": 4472,
+    "nom": "Hamdallah",
+    "prenom": "Abderrazak",
+    "img": "https://interface.myteambyfrmf.ma/uploads/image-1680519460604.jpeg",
+    "post": "A",
+    "equipe_id": 714
+  },
+  {
+    "club_slug": "Sevilla FC",
+    "logo_club": "https://interface.myteambyfrmf.ma/uploads/Europe/spain/Sevilla536.png",
+    "club_id": 14997,
+    "nom": "En-Nesyri",
+    "prenom": "Youssef",
+    "img": "https://interface.myteambyfrmf.ma/uploads/image-1680518896033.jpeg",
+    "post": "A",
+    "equipe_id": 714
+  },
+  {
+    "club_slug": "Paris Saint Germain",
+    "logo_club": "https://interface.myteambyfrmf.ma/uploads/Europe/france/Paris Saint Germain85.png",
+    "club_id": 9610,
+    "nom": "Hakimi",
+    "prenom": "Achraf",
+    "img": "https://interface.myteambyfrmf.ma/uploads/image-1680515760256.jpeg",
+    "post": "AD",
+    "equipe_id": 714
+  },
+  {
+    "club_slug": "Bayern Munich",
+    "logo_club": "https://interface.myteambyfrmf.ma/uploads/autre-country/logo-1681388731316.png",
+    "club_id": 10446,
+    "nom": "Mazraoui",
+    "prenom": "Noussair",
+    "img": "https://interface.myteambyfrmf.ma/uploads/image-1680515883185.jpeg",
+    "post": "AD",
+    "equipe_id": 714
+  },
+  {
+    "club_slug": "Wydad Athletic Club",
+    "logo_club": "https://interface.myteambyfrmf.ma/uploads/afrique/morocco/wac.png",
+    "club_id": 1822,
+    "nom": "Attiyat Allah",
+    "prenom": "Yahia",
+    "img": "https://interface.myteambyfrmf.ma/uploads/image-1680517290156.jpeg",
+    "post": "AG",
+    "equipe_id": 714
+  },
+  {
+    "club_slug": "Chelsea FC",
+    "logo_club": "https://interface.myteambyfrmf.ma/uploads/Europe/england/chelsea.png",
+    "club_id": 16446,
+    "nom": "Ziyech",
+    "prenom": "Hakim",
+    "img": "https://interface.myteambyfrmf.ma/uploads/image-1680482755375.jpeg",
+    "post": "ALD",
+    "equipe_id": 714
+  },
+  {
+    "club_slug": "Burnley FC",
+    "logo_club": "https://interface.myteambyfrmf.ma/uploads/Europe/england/burnley.png",
+    "club_id": 16466,
+    "nom": "Zaroury",
+    "prenom": "Anass",
+    "img": "https://interface.myteambyfrmf.ma/uploads/image-1680519695049.jpeg",
+    "post": "ALG",
+    "equipe_id": 714
+  },
+  {
+    "club_slug": "Toulouse FC",
+    "logo_club": "https://interface.myteambyfrmf.ma/uploads/Europe/france/Toulouse96.png",
+    "club_id": 9620,
+    "nom": "Aboukhlal",
+    "prenom": "Zakaria",
+    "img": "https://interface.myteambyfrmf.ma/uploads/image-1680519237552.jpeg",
+    "post": "ALG",
+    "equipe_id": 714
+  },
+  {
+    "club_slug": "Al-Rayyan SC",
+    "logo_club": "https://interface.myteambyfrmf.ma/uploads/Asia/qatar/Al-Rayyan SC2897.png",
+    "club_id": 5960,
+    "nom": "Boufal",
+    "prenom": "Sofiane",
+    "img": "https://interface.myteambyfrmf.ma/uploads/image-1680518997642.jpeg",
+    "post": "ALG",
+    "equipe_id": 714
+  },
+  {
+    "club_slug": "Besiktas",
+    "logo_club": "https://interface.myteambyfrmf.ma/uploads/Asia/turkey/Besiktas549.png",
+    "club_id": 6511,
+    "nom": "Saïss",
+    "prenom": "Romain",
+    "img": "https://interface.myteambyfrmf.ma/uploads/image-1680516127547.jpeg",
+    "post": "D",
+    "equipe_id": 714
+  },
+  {
+    "club_slug": "Stade Brestois 29",
+    "logo_club": "https://interface.myteambyfrmf.ma/uploads/Europe/france/Stade Brestois 29106.png",
+    "club_id": 9630,
+    "nom": "Dari",
+    "prenom": "Achraf",
+    "img": "https://interface.myteambyfrmf.ma/uploads/image-1680516200355.jpeg",
+    "post": "D",
+    "equipe_id": 714
+  },
+  {
+    "club_slug": "Real Valladolid CF",
+    "logo_club": "https://interface.myteambyfrmf.ma/uploads/Europe/spain/Real Valladolid II9587.png",
+    "club_id": 15195,
+    "nom": "El Yamiq",
+    "prenom": "Jawad",
+    "img": "https://interface.myteambyfrmf.ma/uploads/image-1680516328938.jpeg",
+    "post": "D",
+    "equipe_id": 714
+  },
+  {
+    "club_slug": "Qatar SC",
+    "logo_club": "https://interface.myteambyfrmf.ma/uploads/Asia/qatar/Qatar SC2907.png",
+    "club_id": 5970,
+    "nom": "Benoun",
+    "prenom": "Badr",
+    "img": "https://interface.myteambyfrmf.ma/uploads/image-1680516413309.jpeg",
+    "post": "D",
+    "equipe_id": 714
+  },
+  {
+    "club_slug": "Deportivo Alavés",
+    "logo_club": "https://interface.myteambyfrmf.ma/uploads/autre-country/logo-1681005681315.png",
+    "club_id": 15003,
+    "nom": "Abqar",
+    "prenom": "Abdelkabir",
+    "img": "https://interface.myteambyfrmf.ma/uploads/image-1680517436809.jpeg",
+    "post": "D",
+    "equipe_id": 714
+  },
+  {
+    "club_slug": "West Ham United FC",
+    "logo_club": "https://interface.myteambyfrmf.ma/uploads/Europe/england/westham.png",
+    "club_id": 16461,
+    "nom": "Aguerd",
+    "prenom": "Nayef",
+    "img": "https://interface.myteambyfrmf.ma/uploads/image-1680516018816.jpeg",
+    "post": "DC",
+    "equipe_id": 714
+  },
+  {
+    "club_slug": "Fath Union Sport",
+    "logo_club": "https://interface.myteambyfrmf.ma/uploads/afrique/morocco/fus.png",
+    "club_id": 1831,
+    "nom": "BENABID ",
+    "prenom": "Mehdi ",
+    "img": "https://interface.myteambyfrmf.ma/uploads/image-1672909514066.jpeg",
+    "post": "G",
+    "equipe_id": 714
+  },
+  {
+    "club_slug": "Sevilla FC",
+    "logo_club": "https://interface.myteambyfrmf.ma/uploads/Europe/spain/Sevilla536.png",
+    "club_id": 14997,
+    "nom": "BONO",
+    "prenom": "YASSINE",
+    "img": "https://interface.myteambyfrmf.ma/uploads/image-1680482628027.jpeg",
+    "post": "G",
+    "equipe_id": 714
+  },
+  {
+    "club_slug": "Al-Wehda FC",
+    "logo_club": "https://interface.myteambyfrmf.ma/uploads/autre-country/logo-1681389444975.png",
+    "club_id": 6231,
+    "nom": "El Kajoui",
+    "prenom": "Monir ",
+    "img": "https://interface.myteambyfrmf.ma/uploads/image-1680515188329.jpeg",
+    "post": "G",
+    "equipe_id": 714
+  },
+  {
+    "club_slug": "Wydad Athletic Club",
+    "logo_club": "https://interface.myteambyfrmf.ma/uploads/afrique/morocco/wac.png",
+    "club_id": 1822,
+    "nom": "Tagnaouti",
+    "prenom": "Ahmed Reda ",
+    "img": "https://interface.myteambyfrmf.ma/uploads/image-1680515638755.jpeg",
+    "post": "G",
+    "equipe_id": 714
+  },
+  {
+    "club_slug": "Wydad Athletic Club",
+    "logo_club": "https://interface.myteambyfrmf.ma/uploads/afrique/morocco/wac.png",
+    "club_id": 1822,
+    "nom": "Jabrane",
+    "prenom": "Yahya",
+    "img": "https://interface.myteambyfrmf.ma/uploads/image-1680518672598.jpeg",
+    "post": "M",
+    "equipe_id": 714
+  },
+  {
+    "club_slug": "Watford FC",
+    "logo_club": "https://interface.myteambyfrmf.ma/uploads/Europe/england/watford.png",
+    "club_id": 16471,
+    "nom": "Louza",
+    "prenom": "Imran",
+    "img": "https://interface.myteambyfrmf.ma/uploads/image-1680518084727.jpeg",
+    "post": "M",
+    "equipe_id": 714
+  },
+  {
+    "club_slug": "Real Valladolid CF",
+    "logo_club": "https://interface.myteambyfrmf.ma/uploads/Europe/spain/Real Valladolid II9587.png",
+    "club_id": 15195,
+    "nom": "Amallah",
+    "prenom": "Selim",
+    "img": "https://interface.myteambyfrmf.ma/uploads/image-1680517954514.jpeg",
+    "post": "M",
+    "equipe_id": 714
+  },
+  {
+    "club_slug": "ACF Fiorentina",
+    "logo_club": "https://interface.myteambyfrmf.ma/uploads/Europe/italy/Fiorentina502.png",
+    "club_id": 11976,
+    "nom": "Amrabat",
+    "prenom": "Sofyan",
+    "img": "https://interface.myteambyfrmf.ma/uploads/image-1680517728389.jpeg",
+    "post": "MDF",
+    "equipe_id": 714
+  },
+  {
+    "club_slug": "U.C Sampdoria",
+    "logo_club": "https://interface.myteambyfrmf.ma/uploads/Europe/italy/Sampdoria498.png",
+    "club_id": 11972,
+    "nom": "Sabiri",
+    "prenom": "Abdelhamid",
+    "img": "https://interface.myteambyfrmf.ma/uploads/image-1680517830305.jpeg",
+    "post": "MG",
+    "equipe_id": 714
+  },
+  {
+    "club_slug": "Queens Park Rangers",
+    "logo_club": "https://interface.myteambyfrmf.ma/uploads/Europe/england/qpr.png",
+    "club_id": 16481,
+    "nom": "Chair",
+    "prenom": "Ilias",
+    "img": "https://interface.myteambyfrmf.ma/uploads/image-1680519605343.jpeg",
+    "post": "MO",
+    "equipe_id": 714
+  },
+  {
+    "club_slug": "Olympique Marseille",
+    "logo_club": "https://interface.myteambyfrmf.ma/uploads/Europe/france/Marseille81.png",
+    "club_id": 9606,
+    "nom": "Ounahi",
+    "prenom": "Azzedine",
+    "img": "https://interface.myteambyfrmf.ma/uploads/image-1680517647713.jpeg",
+    "post": "MO",
+    "equipe_id": 714
+  }
+]

@@ -1,0 +1,671 @@
+[
+  {
+    "id": 10,
+    "label": "Physique",
+    "index_sort": 1,
+    "type": "tags",
+    "children": [
+      {
+        "id": 102,
+        "label": "Tests physiques",
+        "tag_id": 10,
+        "index_sort": 10,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 58,
+        "label": "Échauffement",
+        "tag_id": 10,
+        "index_sort": 47,
+        "type": "themes",
+        "children": [
+          {
+            "id": 61,
+            "label": "Échauffement avec ballon",
+            "theme_id": 58,
+            "index_sort": 1,
+            "type": "sous_themes"
+          },
+          {
+            "id": 62,
+            "label": "Échauffement sans ballon",
+            "theme_id": 58,
+            "index_sort": 2,
+            "type": "sous_themes"
+          }
+        ]
+      },
+      {
+        "id": 60,
+        "label": "Énergétique",
+        "tag_id": 10,
+        "index_sort": 48,
+        "type": "themes",
+        "children": [
+          {
+            "id": 68,
+            "label": "Endurance fondamentale",
+            "theme_id": 60,
+            "index_sort": 1,
+            "type": "sous_themes"
+          },
+          {
+            "id": 69,
+            "label": "Capacité aérobie",
+            "theme_id": 60,
+            "index_sort": 2,
+            "type": "sous_themes"
+          },
+          {
+            "id": 70,
+            "label": "Puissance aérobie",
+            "theme_id": 60,
+            "index_sort": 3,
+            "type": "sous_themes"
+          },
+          {
+            "id": 67,
+            "label": "Puissance maximale aérobie",
+            "theme_id": 60,
+            "index_sort": 4,
+            "type": "sous_themes"
+          },
+          {
+            "id": 66,
+            "label": "Répétition de sprints",
+            "theme_id": 60,
+            "index_sort": 5,
+            "type": "sous_themes"
+          }
+        ]
+      },
+      {
+        "id": 61,
+        "label": "Vitesse",
+        "tag_id": 10,
+        "index_sort": 49,
+        "type": "themes",
+        "children": [
+          {
+            "id": 71,
+            "label": "Vivacité",
+            "theme_id": 61,
+            "index_sort": 1,
+            "type": "sous_themes"
+          },
+          {
+            "id": 72,
+            "label": "Vitesse spécifique",
+            "theme_id": 61,
+            "index_sort": 2,
+            "type": "sous_themes"
+          }
+        ]
+      },
+      {
+        "id": 62,
+        "label": "Force",
+        "tag_id": 10,
+        "index_sort": 50,
+        "type": "themes",
+        "children": [
+          {
+            "id": 82,
+            "label": "Renforcement général",
+            "theme_id": 62,
+            "index_sort": 1,
+            "type": "sous_themes"
+          },
+          {
+            "id": 83,
+            "label": "Renforcement haut du corps",
+            "theme_id": 62,
+            "index_sort": 2,
+            "type": "sous_themes"
+          },
+          {
+            "id": 84,
+            "label": "Renforcement du tronc",
+            "theme_id": 62,
+            "index_sort": 3,
+            "type": "sous_themes"
+          },
+          {
+            "id": 85,
+            "label": "Renforcement bas du corps",
+            "theme_id": 62,
+            "index_sort": 4,
+            "type": "sous_themes"
+          },
+          {
+            "id": 76,
+            "label": "Force générale",
+            "theme_id": 62,
+            "index_sort": 5,
+            "type": "sous_themes"
+          },
+          {
+            "id": 73,
+            "label": "Force du haut de corps",
+            "theme_id": 62,
+            "index_sort": 6,
+            "type": "sous_themes"
+          },
+          {
+            "id": 74,
+            "label": "Force du tronc",
+            "theme_id": 62,
+            "index_sort": 7,
+            "type": "sous_themes"
+          },
+          {
+            "id": 75,
+            "label": "Force du bas du corps",
+            "theme_id": 62,
+            "index_sort": 8,
+            "type": "sous_themes"
+          },
+          {
+            "id": 77,
+            "label": "Force spécifique",
+            "theme_id": 62,
+            "index_sort": 9,
+            "type": "sous_themes"
+          }
+        ]
+      },
+      {
+        "id": 63,
+        "label": "Souplesse",
+        "tag_id": 10,
+        "index_sort": 51,
+        "type": "themes",
+        "children": [
+          {
+            "id": 78,
+            "label": "Mobilité générale",
+            "theme_id": 63,
+            "index_sort": 0,
+            "type": "sous_themes"
+          },
+          {
+            "id": 79,
+            "label": "Mobilité individualisée",
+            "theme_id": 63,
+            "index_sort": 0,
+            "type": "sous_themes"
+          },
+          {
+            "id": 80,
+            "label": "Assouplissements",
+            "theme_id": 63,
+            "index_sort": 0,
+            "type": "sous_themes"
+          },
+          {
+            "id": 81,
+            "label": "Étirements",
+            "theme_id": 63,
+            "index_sort": 0,
+            "type": "sous_themes"
+          }
+        ]
+      },
+      {
+        "id": 59,
+        "label": "Prévention",
+        "tag_id": 10,
+        "index_sort": 54,
+        "type": "themes",
+        "children": [
+          {
+            "id": 63,
+            "label": "Prévention générale",
+            "theme_id": 59,
+            "index_sort": 1,
+            "type": "sous_themes"
+          },
+          {
+            "id": 64,
+            "label": "Prévention individualisée",
+            "theme_id": 59,
+            "index_sort": 2,
+            "type": "sous_themes"
+          },
+          {
+            "id": 65,
+            "label": "Proprioception",
+            "theme_id": 59,
+            "index_sort": 3,
+            "type": "sous_themes"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "label": "Technique",
+    "index_sort": 2,
+    "type": "tags",
+    "children": [
+      {
+        "id": 75,
+        "label": "Les Tirs ",
+        "tag_id": 11,
+        "index_sort": 37,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 74,
+        "label": "Techniques défensives ",
+        "tag_id": 11,
+        "index_sort": 38,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 73,
+        "label": "Prise de balle en mouvement et enchaînement",
+        "tag_id": 11,
+        "index_sort": 39,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 72,
+        "label": "Technique au poste ",
+        "tag_id": 11,
+        "index_sort": 40,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 71,
+        "label": "Technique générale",
+        "tag_id": 11,
+        "index_sort": 41,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 70,
+        "label": "Passing long",
+        "tag_id": 11,
+        "index_sort": 42,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 64,
+        "label": "Passing court",
+        "tag_id": 11,
+        "index_sort": 43,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 67,
+        "label": "Dribbles",
+        "tag_id": 11,
+        "index_sort": 44,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 68,
+        "label": "Finition",
+        "tag_id": 11,
+        "index_sort": 45,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 69,
+        "label": "Jeu de tête",
+        "tag_id": 11,
+        "index_sort": 46,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 65,
+        "label": "Centres",
+        "tag_id": 11,
+        "index_sort": 52,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 66,
+        "label": "Contrôle",
+        "tag_id": 11,
+        "index_sort": 53,
+        "type": "themes",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "label": "Tactique",
+    "index_sort": 3,
+    "type": "tags",
+    "children": [
+      {
+        "id": 81,
+        "label": "Principes défensif",
+        "tag_id": 13,
+        "index_sort": 11,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 82,
+        "label": "Principes offensif",
+        "tag_id": 13,
+        "index_sort": 12,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 83,
+        "label": "Tactique défensive",
+        "tag_id": 13,
+        "index_sort": 13,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 84,
+        "label": "Tactique offensive",
+        "tag_id": 13,
+        "index_sort": 14,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 91,
+        "label": "Animation defensive",
+        "tag_id": 13,
+        "index_sort": 15,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 85,
+        "label": "Transition défensive",
+        "tag_id": 13,
+        "index_sort": 16,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 86,
+        "label": "Transition offensif",
+        "tag_id": 13,
+        "index_sort": 17,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 87,
+        "label": "Jeu entre les lignes vers l'avant ",
+        "tag_id": 13,
+        "index_sort": 18,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 88,
+        "label": "Défendre en zone ",
+        "tag_id": 13,
+        "index_sort": 19,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 89,
+        "label": "Récupération collective et rapide du ballon",
+        "tag_id": 13,
+        "index_sort": 20,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 90,
+        "label": "Appui/Soutien/Appel",
+        "tag_id": 13,
+        "index_sort": 21,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 80,
+        "label": "Pressing",
+        "tag_id": 13,
+        "index_sort": 22,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 92,
+        "label": "Animation offensive",
+        "tag_id": 13,
+        "index_sort": 23,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 93,
+        "label": "Startegies ",
+        "tag_id": 13,
+        "index_sort": 24,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 94,
+        "label": "Jeux combinés ",
+        "tag_id": 13,
+        "index_sort": 25,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 95,
+        "label": "Duels ",
+        "tag_id": 13,
+        "index_sort": 26,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 79,
+        "label": "Intra line défensive",
+        "tag_id": 13,
+        "index_sort": 33,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 78,
+        "label": "Details par poste",
+        "tag_id": 13,
+        "index_sort": 34,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 77,
+        "label": "Automatisme offensif",
+        "tag_id": 13,
+        "index_sort": 35,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 76,
+        "label": "Automatisme défensif",
+        "tag_id": 13,
+        "index_sort": 36,
+        "type": "themes",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "label": "Mentale",
+    "index_sort": 4,
+    "type": "tags",
+    "children": [
+      {
+        "id": 96,
+        "label": "Collaboration",
+        "tag_id": 14,
+        "index_sort": 27,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 97,
+        "label": "Communication",
+        "tag_id": 14,
+        "index_sort": 28,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 98,
+        "label": "Contrôle des émotions",
+        "tag_id": 14,
+        "index_sort": 29,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 99,
+        "label": "Persévérance",
+        "tag_id": 14,
+        "index_sort": 30,
+        "type": "themes",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "label": "Phases arrêtés ",
+    "index_sort": 5,
+    "type": "tags",
+    "children": [
+      {
+        "id": 100,
+        "label": "PA offensif",
+        "tag_id": 15,
+        "index_sort": 31,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 101,
+        "label": "PA défensif",
+        "tag_id": 15,
+        "index_sort": 32,
+        "type": "themes",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "label": "Spécifique Gardien",
+    "index_sort": 6,
+    "type": "tags",
+    "children": [
+      {
+        "id": 109,
+        "label": "Déplacement vertical",
+        "tag_id": 16,
+        "index_sort": 3,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 104,
+        "label": "Déplacement horizontal",
+        "tag_id": 16,
+        "index_sort": 4,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 106,
+        "label": "Plongeons",
+        "tag_id": 16,
+        "index_sort": 5,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 105,
+        "label": "Placements",
+        "tag_id": 16,
+        "index_sort": 6,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 103,
+        "label": "Prise de balle",
+        "tag_id": 16,
+        "index_sort": 7,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 107,
+        "label": "Relances",
+        "tag_id": 16,
+        "index_sort": 8,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 108,
+        "label": "Réflexes",
+        "tag_id": 16,
+        "index_sort": 9,
+        "type": "themes",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "label": "Spécifique par Poste",
+    "index_sort": 7,
+    "type": "tags",
+    "children": [
+      {
+        "id": 111,
+        "label": "DÉFENSEURS ",
+        "tag_id": 19,
+        "index_sort": 1,
+        "type": "themes",
+        "children": []
+      },
+      {
+        "id": 110,
+        "label": "Attaquants",
+        "tag_id": 19,
+        "index_sort": 2,
+        "type": "themes",
+        "children": []
+      }
+    ]
+  }
+]
